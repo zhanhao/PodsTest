@@ -1,0 +1,88 @@
+TPods
+v6
+r1
+cCheck dependencies
+cCompileC /Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.o /Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Pods/Pods-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Products/Debug-iphoneos/libPods.a normal armv7s
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c0000000053119F860000000000000132
+t1393663878
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000539AC865000000000000036B
+t1402652773
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000539AC865000000000000019E
+t1402652773
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000539AC8690000000000A90C10
+t1402652777
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000539AC8BA0000000000000ADC
+t1402652858
+s2780
+
+N/Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.o
+t1406366864
+s3468
+
+N/Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7s/Pods.LinkFileList
+c0000000053D3748F0000000000000091
+t1406366863
+s145
+
+N/Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Products/Debug-iphoneos/libPods-AFNetworking.a
+c0000000053D3748F00000000001617D0
+t1406366863
+s1447888
+
+N/Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Products/Debug-iphoneos/libPods.a
+t2
+s0
+
+N/Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Pods/Pods-dummy.m
+c0000000053D347D90000000000000070
+t1406355417
+s112
+
+CBuild AST from /Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Pods/Pods-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies1422dc0fac83b941^47c8dc0fac83b941^---0#1#1#--18"Check dependencies36"B933B681-E3C1-4991-BA4C-7F1184474F31-
+
+CCompileC /Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.o /Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Pods/Pods-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s428059663.862927
+e428059664.667707
+r1
+xCompileC
+x/Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.o
+x/Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Pods/Pods-dummy.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Pods/Pods-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Pods/Pods-dummy.m236"CompileC /Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.o Pods-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler22ffdc0fac83b941^39f0aa10ac83b941^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Pods/Pods-dummy.m0000000000000000^3622"CompileC /Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.o Pods-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/anim/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Pods-generated-files.hmap -I/Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Pods-own-target-headers.hmap -I/Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Pods-all-target-headers.hmap -iquote /Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Pods-project-headers.hmap -I/Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Products/Debug-iphoneos/include -I/Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Pods/Pods/Headers -I/Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Pods/Pods/Headers/AFNetworking -I/Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/DerivedSources/armv7s -I/Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/DerivedSources -F/Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Products/Debug-iphoneos -isystem /Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Pods/Pods/Headers -isystem /Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Pods/Pods/Headers/AFNetworking -MMD -MT dependencies -MF /Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.d --serialize-diagnostics /Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.dia -c /Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Pods/Pods-dummy.m -o /Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.o36"68C3CDAC-4E57-45ED-82B4-64994E0E9191-
+b8F7BE882-6D5D-434B-A079-FEB5EBCF5012
+
+CLibtool /Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Products/Debug-iphoneos/libPods.a normal armv7s
+s428059664.668401
+e428059664.752912
+r1
+xLibtool
+x/Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Products/Debug-iphoneos/libPods.a
+xnormal
+xarmv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Libtool /Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Products/Debug-iphoneos/libPods.a normal armv7s114"Libtool /Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Products/Debug-iphoneos/libPods.a normal armv7s302cab10ac83b941^b1bfc010ac83b941^---0#0#1#--1032"Libtool /Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Products/Debug-iphoneos/libPods.a normal armv7s    cd /Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Products/Debug-iphoneos -filelist /Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7s/Pods.LinkFileList -framework Foundation -lPods-AFNetworking -o /Users/anim/develop/DevelopForiOS/Cocoapods/PodsTest/Build/Products/Debug-iphoneos/libPods.a36"A07CB1B4-FADD-4E54-8CFA-51232CCBFDAE-
+b8F7BE882-6D5D-434B-A079-FEB5EBCF5012
+
