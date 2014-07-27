@@ -12,8 +12,6 @@
 		8738429B19837BBD00CDFE91 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8738429A19837BBD00CDFE91 /* CoreGraphics.framework */; };
 		8738429D19837BBD00CDFE91 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8738429C19837BBD00CDFE91 /* UIKit.framework */; };
 		873842A319837BBD00CDFE91 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 873842A119837BBD00CDFE91 /* InfoPlist.strings */; };
-		873842A519837BBD00CDFE91 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 873842A419837BBD00CDFE91 /* main.m */; };
-		873842A919837BBD00CDFE91 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 873842A819837BBD00CDFE91 /* AppDelegate.m */; };
 		873842AB19837BBD00CDFE91 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 873842AA19837BBD00CDFE91 /* Images.xcassets */; };
 		873842B219837BBD00CDFE91 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 873842B119837BBD00CDFE91 /* XCTest.framework */; };
 		873842B319837BBD00CDFE91 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8738429819837BBD00CDFE91 /* Foundation.framework */; };
@@ -21,7 +19,6 @@
 		873842BC19837BBD00CDFE91 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 873842BA19837BBD00CDFE91 /* InfoPlist.strings */; };
 		873842BE19837BBD00CDFE91 /* PodsTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 873842BD19837BBD00CDFE91 /* PodsTestTests.m */; };
 		873842C91983A7DB00CDFE91 /* TestView.m in Sources */ = {isa = PBXBuildFile; fileRef = 873842C81983A7DB00CDFE91 /* TestView.m */; };
-		873842CC1983A7F600CDFE91 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 873842CB1983A7F600CDFE91 /* TestViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,10 +40,7 @@
 		8738429C19837BBD00CDFE91 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		873842A019837BBD00CDFE91 /* PodsTest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PodsTest-Info.plist"; sourceTree = "<group>"; };
 		873842A219837BBD00CDFE91 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		873842A419837BBD00CDFE91 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		873842A619837BBD00CDFE91 /* PodsTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "PodsTest-Prefix.pch"; sourceTree = "<group>"; };
-		873842A719837BBD00CDFE91 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		873842A819837BBD00CDFE91 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		873842AA19837BBD00CDFE91 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		873842B019837BBD00CDFE91 /* PodsTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PodsTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		873842B119837BBD00CDFE91 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
@@ -55,8 +49,6 @@
 		873842BD19837BBD00CDFE91 /* PodsTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PodsTestTests.m; sourceTree = "<group>"; };
 		873842C71983A7DB00CDFE91 /* TestView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestView.h; sourceTree = "<group>"; };
 		873842C81983A7DB00CDFE91 /* TestView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestView.m; sourceTree = "<group>"; };
-		873842CA1983A7F600CDFE91 /* TestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
-		873842CB1983A7F600CDFE91 /* TestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,14 +111,10 @@
 		8738429E19837BBD00CDFE91 /* PodsTest */ = {
 			isa = PBXGroup;
 			children = (
-				873842A719837BBD00CDFE91 /* AppDelegate.h */,
-				873842A819837BBD00CDFE91 /* AppDelegate.m */,
 				873842AA19837BBD00CDFE91 /* Images.xcassets */,
 				8738429F19837BBD00CDFE91 /* Supporting Files */,
 				873842C71983A7DB00CDFE91 /* TestView.h */,
 				873842C81983A7DB00CDFE91 /* TestView.m */,
-				873842CA1983A7F600CDFE91 /* TestViewController.h */,
-				873842CB1983A7F600CDFE91 /* TestViewController.m */,
 			);
 			path = PodsTest;
 			sourceTree = "<group>";
@@ -136,7 +124,6 @@
 			children = (
 				873842A019837BBD00CDFE91 /* PodsTest-Info.plist */,
 				873842A119837BBD00CDFE91 /* InfoPlist.strings */,
-				873842A419837BBD00CDFE91 /* main.m */,
 				873842A619837BBD00CDFE91 /* PodsTest-Prefix.pch */,
 			);
 			name = "Supporting Files";
@@ -290,10 +277,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				873842A919837BBD00CDFE91 /* AppDelegate.m in Sources */,
 				873842C91983A7DB00CDFE91 /* TestView.m in Sources */,
-				873842CC1983A7F600CDFE91 /* TestViewController.m in Sources */,
-				873842A519837BBD00CDFE91 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
